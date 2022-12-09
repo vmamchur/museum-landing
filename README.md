@@ -1,4 +1,13 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+# Museum Landing Page pet-project
+- [DEMO LINK](https://vmamchur.github.io/museum-landing/)
+
+## Technologies:
+- HTML
+- SCSS
+- Grid
+- BEM-methodology
+
+## Adaptive layout:
+- Desktop (>= 1280px)
+- Tablet (>= 768px)
+- Mobile (>= 320px)
